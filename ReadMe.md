@@ -8,6 +8,15 @@ This repository contains STEP files (`.step` / `.stp`) for the Panzer Fight Stic
 
 > **Please read the License and Disclaimers below before using anything in this repository.**
 
+## Tapping & Threading
+
+The following thread specifications are provided as general guidance. Always verify against your specific hardware before tapping.
+
+- **MX / HE PCBs:** generally use **#6-32** threading.
+- **Brook PCB mounting points:** generally use **#4-40** threading.
+- **Lever mount points:** generally use **#6-32** threading.
+- **Top and bottom panels:** use **M4x0.7** threading.
+
 ---
 
 ## License — Personal, Non-Commercial Use Only
