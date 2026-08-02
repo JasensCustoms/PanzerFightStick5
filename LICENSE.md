@@ -1,25 +1,4 @@
-# Panzer Fight Stick 5
-
-Design files for the **Panzer Fight Stick 5**, provided for **personal, non-commercial use only.**
-
-## What's in This Repo
-
-This repository contains STEP files (`.step` / `.stp`) for the Panzer Fight Stick 5.
-
-> **Please read the License and Disclaimers below before using anything in this repository.**
-
-## Tapping & Threading
-
-The following thread specifications are provided as general guidance. Always verify against your specific hardware before tapping.
-
-- **MX / HE PCBs:** generally use **#6-32** threading.
-- **Brook PCB mounting points:** generally use **#4-40** threading.
-- **Lever mount points:** generally use **#6-32** threading.
-- **Top and bottom panels:** use **M4x0.7** threading.
-
----
-
-## License — Personal, Non-Commercial Use Only
+# License — Personal, Non-Commercial Use Only
 
 Copyright © 2026 Jasen Hicks ([www.JasensCustoms.com](https://www.JasensCustoms.com)). All rights reserved.
 
